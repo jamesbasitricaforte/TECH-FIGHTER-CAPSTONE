@@ -1,0 +1,5 @@
+RESCUE Capstone Project
+Purpose: Test GitHub collaboration.
+
+Member updates:
+1. James Michael Ricaforte - Initial test file created.
